@@ -33,4 +33,4 @@
 	- non-vine: 49.92% 
 
 ### Summary
-Based on selected dataset, I conclude that there is no bias toward favorable reviews from Vine members. The percentage of 5 stars review of non-Vine member is approximately 7% higher than Vine member. The additional analysis that we could do is to use other datasets and see if the result will be the same. Also, we can perform statistical analysis (ie: mean, median, mode, and Std).
+Based on selected dataset, I conclude that there is no bias toward favorable reviews from Vine members. The percentage of 5 stars review of non-Vine member is approximately 7% higher than Vine member. The additional analysis that we could do is to use other datasets and see if the result will be the same. Also, we can perform statistical analysis to compute figures such as mean, median, mode, and Std.
